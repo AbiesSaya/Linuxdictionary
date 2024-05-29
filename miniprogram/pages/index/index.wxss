@@ -1,0 +1,51 @@
+.cover {
+  background-color:#f1f1f1;
+  text-align: center;
+  padding: 80rpx;
+
+}
+.logo{
+  width: 160rpx;
+  height:160rpx;
+}
+.title{
+  font-weight: 300;
+  color: black;
+  font-size: 38rpx;
+  margin: 50rpx 32rpx;
+}
+.desc{
+  font-size: 28rpx;
+  font-weight: 200;
+  color: black;
+  margin: 32rpx;
+}
+.choose{
+  margin: 80rpx auto;
+}
+
+.join{
+  width: 400rpx;
+  height: 100rpx;
+  background-color: aqua;
+  margin: 50rpx auto;
+  text-align: center;
+  line-height: 100rpx;
+  color: #f1f1f1;
+  font-weight: bold;
+  border: 12rpx;
+
+}
+.join2{
+  padding: auto;
+  width: 400rpx;
+  height: 100rpx;
+  background-color: aqua;
+  margin: 50rpx auto;
+  text-align: center;
+  line-height: 100rpx;
+  color: #f1f1f1;
+  font-weight: bold;
+  border: 12rpx;
+
+}

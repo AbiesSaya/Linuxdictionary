@@ -1,0 +1,9 @@
+<view class="container">
+  <view class="hx">
+    <image src="/images/hx1.png"  />
+  </view>
+  <input bindinput="inputChange" placeholder="请输入指令" />
+  <button style="margin:30rpx 0" type="primary" bindtap="search">搜索</button>
+  <view>{{result}}</view>
+</view>
+ 

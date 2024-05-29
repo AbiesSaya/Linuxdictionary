@@ -1,0 +1,11 @@
+<view >
+  <view class="cover">
+    <image src="/images/logo.jpg" class="logo" />
+  </view>
+  <view class="title" bind:tap="change">{{hello}}</view>
+  <view class="desc">本小程序主要用来2024年网络编程实验的相关验收，亦期盼能够给自己及一些刚入门linux的朋友以一些聊胜于无的帮助</view>
+  <view class="choose">
+    <navigator class="join" url="/pages/form/index">开始使用</navigator>
+    <navigator class="join2" url="/pages/form2/index">看看虹夏</navigator>
+  </view>
+</view>
